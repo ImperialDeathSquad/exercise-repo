@@ -1,3 +1,3 @@
 # exercise-repo
-Only for the exercises
-This will make a conflict
+Made for exercises
+Penchev e bronzak
